@@ -3,6 +3,6 @@
 - 👩🏻‍💻 I'm currently learning Frontend with focus on Angular.
 - 👀 I’m looking to Junior Web Developer Job.
 - 🔭 I’m currently working on getting a degreee as a Web Developer.
-- 📫 Reach me @ maryyhbb@gmail.com
+- 📫 Reach me @ maaryhbb@gmail.com
 
 
