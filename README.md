@@ -6,7 +6,7 @@
 
 - 👩🏻‍💻 Currently, I am working on mastering Angular and expanding my skills in HTML, CSS, JavaScript, and other modern web technologies as part of my pursuit of a degree in Web Development.
 
-- 👀 I am actively seeking a Web Developer Job that challenges me and allows me to grow as a professional. I believe that my skills and passion for frontend development make me an excellent candidate for this role.
+- 👀 I am actively seeking a Web Developer Job that challenges me and allows me to grow as a professional.
 
 - 📫 If you're interested in collaborating or discussing potential projects, feel free to reach out to me at maaryhbb@gmail.com.
 
