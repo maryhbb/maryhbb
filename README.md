@@ -1,13 +1,8 @@
 
+- 👋 Hi there, I'm Mary, an aspiring Frontend Developer
+- 👩🏻‍💻 Focusing on mastering Angular and other modern web technologies
+- 🔭 Currently pursuing a degree in Web Development
+- 👀 Seeking a challenging Web Developer job
+- 📫 Contact me at maaryhbb@gmail.com
 
-- 👋 Hi there, I'm Mary - an aspiring Web Developer with a focus on Frontend Development.
-
-- 💞️ My interests lie in creating beautiful and user-friendly interfaces that bring digital experiences to life.
-
-- 👩🏻‍💻 Currently, I am working on mastering Angular and expanding my skills in HTML, CSS, JavaScript, and other modern web technologies as part of my pursuit of a degree in Web Development.
-
-- 👀 I am actively seeking a Web Developer Job that challenges me and allows me to grow as a professional.
-
-- 📫 If you're interested in collaborating or discussing potential projects, feel free to reach out to me at maaryhbb@gmail.com.
-
-Let's create something amazing together!
+I am passionate about Frontend Development and creating engaging web experiences. Let's build something amazing together! 🚀
