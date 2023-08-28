@@ -6,4 +6,10 @@
 - 👀 Seeking a challenging Web Developer job
 - 📫 Contact me at maryyhbb@gmail.com
 
-I am passionate about Frontend Development and creating engaging web experiences. Let's build something amazing together! 🚀
+
+------------------
+
+## 🧠 my Skills:
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,next,webpack,git,github,vscode,md,bootstrap)
+
