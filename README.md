@@ -9,7 +9,7 @@
 
 ------------------
 
-## 🧠 my Skills:
+## my Skills:
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,next,webpack,git,github,vscode,md,bootstrap)
 
