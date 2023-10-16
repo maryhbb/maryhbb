@@ -9,7 +9,8 @@
 
 ------------------
 
-## my Skills:
+## :fire: Exciting Skills :fire:
+
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,next,webpack,mongodb,vercel,git,github,vscode,md)
 
