@@ -11,5 +11,5 @@
 
 ## my Skills:
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,next,webpack,git,github,vscode,md)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,react,next,webpack,mongodb,vercel,git,github,vscode,md)
 
